@@ -4,7 +4,7 @@ package main.java;
 
 public class Java {
     public static int doubleInteger(int i) {
-        return i << 1;
+        return i + i;
     }
 }
 
